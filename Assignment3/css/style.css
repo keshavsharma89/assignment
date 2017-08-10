@@ -1,0 +1,41 @@
+ @charset "utf-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
+body{
+	background-color: #f1f1f1;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+body, .paytable, .paytable table{
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 60%;
+}
+.container {
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    float: left;
+    background-color: #fff;
+    box-shadow: 4px 4px 2px #afafaf;
+}
+.paytable table {
+	width: 100%;
+    text-align: center;
+}
+.paytable td,.paytable th {
+	font-size: 17px;
+    color: #6d6d6d;
+    border: 2px solid #f0f0f0;
+    margin-bottom: 2px;
+    padding: 5px;
+}
+.even{
+	background-color: #f7f7f7;
+}

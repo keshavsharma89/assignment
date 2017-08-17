@@ -1,4 +1,4 @@
-#Solution Live URL http://13.126.226.6/Insly_Assignment/
+# Solution Live URL http://13.126.226.6/Insly_Assignment/
 
 # Assignment 1
 Create a database structure to store employee information. The information stored is as follows:
